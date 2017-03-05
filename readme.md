@@ -1,4 +1,6 @@
 # patternplate-transform-react-mount [![stability][0]][1]
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/sinnerschrader/patternplate-transform-react-mount.svg)](https://greenkeeper.io/)
 [patternplate](/sinnerschrader/patternplate) transform mounting react components with full life cycle on the client side.
 
 [![npm version][2]][3] [![Travis branch][4]][5] [![Appveyor branch][6]][7]
