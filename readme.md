@@ -1,3 +1,7 @@
+> # ⚠️ Deprecated
+> Use instead: https://patternplate.github.io/
+
+
 # patternplate-transform-react-mount [![stability][0]][1]
 [patternplate](/sinnerschrader/patternplate) transform mounting react components with full life cycle on the client side.
 
